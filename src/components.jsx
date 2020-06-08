@@ -159,6 +159,7 @@ export const Table = styled.table`
 export const TableRow = styled.td`
     border: 1px solid #333;
     padding : 10px;
+    border-collapse: collapse;
 `
 
 export const OptionQuizz = styled.option`

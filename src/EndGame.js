@@ -6,7 +6,7 @@ import Recap from './Recap';
 const EndGame = ({ points, bilan }) => {
     return (
         <TabContainer>
-            <h1>Tabs Demo</h1>
+            <h1>Overview</h1>
             <div style={{"overflow" : "auto"}}>
             <Tabs>
                 <TabContent label="Stats">
